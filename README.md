@@ -18,10 +18,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Experiances ⚒️</h2>
+<h2 align="center">⚒️ Experiences ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=lua,nodejs,python,javascript,typescript,express,nextjs,mysql,rust" /><br>
 </div>
 
 <br/>
