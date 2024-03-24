@@ -8,7 +8,7 @@
 
 <div align="center">
  
-🔷 Im a passionate programmer, experianced in luau and typescript.
+🔷 Im a passionate programmer, experienced in luau and typescript.
 
 🦀 Currently learning rust!
 
