@@ -8,7 +8,7 @@
 
 <div align="center">
  
-🔷 Im a passionate programmer, experienced in luau and typescript.
+🔷 Im a passionate programmer, experienced in luau, typescript, c# and c++.
 
 🦀 Currently learning rust!
 
@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Experiences ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,nodejs,python,javascript,typescript,rust,cpp,csharp" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,lua,nodejs,python,javascript,typescript,rust" /><br>
 </div>
 
 <br/>
