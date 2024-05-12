@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Experiences ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,nodejs,python,javascript,typescript,rust,cpp,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=lua,nodejs,python,javascript,typescript,rust,cpp,csharp" /><br>
 </div>
 
 <br/>
