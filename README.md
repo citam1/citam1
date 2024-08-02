@@ -8,9 +8,9 @@
 
 <div align="center">
  
-🔷 Im a passionate programmer, experienced in luau and typescript.
 
-🦀 Currently learning rust and c++!
+# Undetected forever and always, untouchable.
+
 
  </div>
  
